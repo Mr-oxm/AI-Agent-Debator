@@ -1,0 +1,17 @@
+# Core libraries
+langchain==0.3.24
+langgraph>=0.4.0
+langchain-community==0.3.23
+google-generativeai==0.8.5
+python-dotenv==1.1.0
+langchain-deepseek
+langchain-google-genai
+tavily-python
+httpx 
+httpcore
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+matplotlib
