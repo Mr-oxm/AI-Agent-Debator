@@ -7,7 +7,7 @@ Built with **Next.js** for the frontend and powered by intelligent AI agent inte
 
 ## 🚀 Features
 
-- 🤖 **Multi-Agent Debate System** — Two AI agents argue from opposing sides on a chosen topic.  
+- 🤖 **Multi-Agent Debate System using Langchain** — Two AI agents argue from opposing sides on a chosen topic.  
 - ⚖️ **AI Judge** — A third AI agent objectively evaluates the debate and declares a winner.  
 - 🧩 **Customizable Topics** — Users can input or select topics for debate.  
 - 💬 **Dynamic Dialogue Display** — Real-time updates of AI exchanges with smooth animations.  
